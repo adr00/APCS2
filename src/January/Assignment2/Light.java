@@ -1,4 +1,4 @@
-package January.Assignment2Part1;
+package January.Assignment2;
 public class Light {
     // Variables that will be initialized in the Light constructors.
     private boolean on;
