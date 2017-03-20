@@ -25,6 +25,7 @@ public class Main
                 names.add(temp);
             }
         }
+        names.sort(String::compareToIgnoreCase);
         System.out.println(names);
     }
 
